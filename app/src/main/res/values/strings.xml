@@ -1,0 +1,247 @@
+<resources>
+    <string name="app_name">mycancercare</string>
+    <string name="desc_cancer">Kanker adalah penyakit yang ditandai dengan pertumbuhan sel secara tidak terkendali, yang memiliki kemampuan untuk menyusup dan merusak sel-sel sehat di dalam tubuh.</string>
+    <string name="apa_itu_kanker">Apa itu Kanker?</string>
+    <string name="penyebab_kanker">Penyebab Kanker?</string>
+    <string name="desc_penyebab">Penyebab utama kanker adalah mutasi DNA pada sel, sehingga sel memecah diri dengan kecepatan melebihi normal. Selain mutasi, penyebab kanker juga disebabkan oleh radiasi, asap rokok, virus, bahan kimia karsinogen dan hormon</string>
+    <string name="faktor_risiko">Faktor Risiko?</string>
+    <string name="faktorrisiko">Faktor risiko kanker melingkupi tingkat usia, riwayat keluarga, lingkungan,kondisi kesehatan kronis, infeksi dan gangguan sistem imun.</string>
+    <string name="pelajarilebihlanjut">Ingin mempelajarinya lebih lanjut?</string>
+
+    <string name="kenal_breast"><b>Apa itu Kanker Payudara?</b>\n\nKanker payudara adalah kondisi ketika sel kanker terbentuk di jaringan payudara. Kanker bisa terbentuk di kelenjar yang menghasilkan susu (lobulus), atau di saluran (duktus) yang membawa air susu dari kelenjar ke puting payudara.
+        \n\nKanker juga bisa terbentuk di jaringan lemak atau jaringan ikat di dalam payudara. Kanker payudara terbentuk saat sel-sel di dalam payudara tumbuh tidak normal dan tidak terkendali. Sel tersebut umumnya membentuk tumor yang terasa seperti benjolan. Meski biasanya terjadi pada wanita, kanker payudara juga bisa menyerang pria.Kanker payudara yang paling umum terjadi, terbagi dalam beberapa jenis.
+        \n\n<b>a. Ductal carcinoma in situ.</b>
+        \nKanker ini tumbuh di duktus, dan tidak menyebar ke jaringan sekitarnya. Jenis kanker ini termasuk kanker stadium awal dan mudah diobati. Namun demikian, kanker ini bisa menyebar ke jaringan sekitarnya jika tidak segera ditangani.
+
+</string>
+    <string name="todo">TODO</string>
+    <string name="lcis"><b>b. Lobular carcinoma in situ.</b>
+        \nKanker ini tumbuh di bagian lobulus. Sama seperti ductal carcinoma in situ, kanker ini tidak menyebar ke jaringan sekitarnya.</string>
+    <string name="idc"><b>c. Invasive ductal carcinoma.</b>
+        \nKanker ini tumbuh di duktus dan bisa menyebar ke jaringan sekitarnya, bahkan bisa menyebar ke area tubuh yang lain. Jenis kanker ini terjadi pada 70–80% kasus kanker payudara.</string>
+    <string name="ilc"><b>d. Invasive lobular carcinoma.</b>
+        \nAdalah kanker yang tumbuh di lobulus dan bisa menyebar ke jaringan sekitarnya. Kanker ini terjadi pada 10% kasus kanker payudara.</string>
+    <string name="gejala_breast">\n<b>Apa saja ciri-ciri kanker payudara?</b>
+        \n\nCiri-ciri kanker payudara yang paling khas adalah munculnya benjolan di payudara. Benjolan ciri-ciri kanker payudara memiliki tekstur yang keras dengan batas yang tidak jelas dan permukaannya yang tidak rata. Benjolan juga terus menetap 8 hingga 10 hari usai menstruasi. Bila benjolan ciri-ciri kanker payudara dekat dengan puting susu, akan terlihat bahwa puting susu tertarik ke dalam dan agak susah digerakkan (lengket).
+        \nSelain munculnya benjolan, tanda dan ciri-ciri kanker payudara yang dapat Anda kenali lainnya adalah:
+        \n\n <b>a. Perubahan ukuran, bentuk, atau tampilan dari payudara.</b>
+        \n\n <b>b. Perubahan bentuk pada puting payudara.</b>
+        \n\n <b>c. Rasa sakit pada payudara yang tak kunjung hilang, bahkan ketika Anda sudah masuk ke masa haid bulan berikutnya. Meski begitu, beberapa wanita juga ada yang tidak mengalami rasa sakit atau nyeri di payudaranya.</b>
+        \n\n <b>d. Puting mengeluarkan cairan bening, berwarna cokelat, atau kuning.</b>
+        \n\n <b>e. Puting tiba-tiba memerah dan bengkak tanpa diketahui penyebabnya. </b>
+        \n\n <b>f. Bengkak di sekitar ketiak yang disebabkan karena pembesaran kelenjar getah bening di daerah tersebut.</b>
+        \n\n <b>g. Pembuluh vena terlihat pada payudara, akibatnya urat-urat di bagian payudara terlihat dengan jelas.</b>
+        \n\n <b>h. Pada stadium lanjut mulai tampak adanya kelainan pada kulit payudara (seperti kulit jeruk atau kulit menjadi kemerahan), terkadang kulit juga jadi mencekung seperti lesung pipi karena tertarik oleh benjolan.</b></string>
+
+    <string name="bagaimanacegah"><b>Bagaimana cara mencegah kanker payudara?</b>
+        \n\nCara ampuh untuk mencegah penyakit ini adalah dengan menghindari segala faktor risiko penyebabnya. Selain itu, mewaspadai gejala kanker payudara dengan deteksi dini juga langkah penting untuk mencegah penyakit ini. Berikut ini beberapa cara deteksi dini untuk mewaspadai gejala kanker payudara yang dapat Anda lakukan.
+        \n\n <b>1. Periksa payudara sendiri</b></string>
+    <string name="desc_sendiri">Langkah paling mudah untuk mengetahui gejala kanker payudara adalah dengan pemeriksaan payudara sendiri atau SADARI. Tujuannya untuk memeriksa benjolan pada payudara. Anda dapat melakukan pemeriksaan ini di rumah secara rutin. Pemeriksaan yang dilakukan secara rutin akan membantu Anda untuk mengenali tekstur jaringan payudara normal.
+        \n\nWaktu terbaik untuk memeriksa payudara adalah beberapa hari setelah siklus menstruasi selesai. Karena perubahan hormon dapat mempengaruhi bentuk dan perasaan Anda terhadap payudara, pemeriksaan paling baik adalah ketika payudara Anda berada pada status yang normal.
+    \n\n <b>2. Mammografi</b></string>
+    <string name="desc_mamo">Selain melakukan SADARI, Anda dapat melakukan pemeriksaan mammografi secara rutin untuk mendeteksi ada tidaknya sel kanker di bagian payudara. Pemeriksaan ini penting dilakukan untuk mengetahui gejala kanker payudara awal. Mammografi sendiri adalah teknik pemindaian gambar menggunakan sinar rontgen dosis rendah untuk mendeteksi dan mendiagnosis kanker di payudara.
+        \n\nKetika melakukan memmografi, payudara Anda akan ditempelkan pada layar pemindai rontgen. Kemudian, sebuah kompressor akan menekan payudara Anda ke bawah untuk meratakan jaringan agar menunjukkan gambar yang lebih jelas dari payudara Anda. Bagi Anda yang baru pertama kali melakukan prosedur ini, Anda mungkin akan sedikit merasakan nyeri atau tidak nyaman. Namun jangan khawatir, rasa nyeri dan tidak nyaman ini tidak akan bertahan lama.
+    \n\n <b>3. Perubahan Gaya Hidup</b></string>
+    <string name="desc_gayasehat">Beberapa perubahan gaya hidup yang dapat membantu mencegah kanker di payudara, yaitu:
+        \n\n <b>a. Batasi konsumsi alkohol</b>
+        \nKonsumsi alkohol tidak lebih dari satu gelas per hati. Lebih baik lagi, berhentilah mengonsumsi alkohol secara total.
+        \n\n <b>b. Olahraga teratur</b>
+        \nOlahraga intensitas sedang secara rutin setidaknya 30 menit setiap hari. Hal ini dapat dimulai dengan hanya sekadar jalan santai, bersepeda, jogging, dan lain sebagainya. Bila perlu, tanyakan pada dokter terkait olahraga yang sesuai dengan kondisi Anda.
+        \n\n <b>c. Batasi terapi hormon pasca menopause</b>
+        \nKombinasi terapi hormon dapat meningkatkan risiko terkena kanker di payudara. Itu sebabnya, bicarakan kembali dengan dokter Anda terkait manfaat serta risiko terapi hormon.
+        \n\n <b>d. Berat badan sehat</b>
+        \nBerusahalah untuk mendapatkan berat badan sehat dan ideal. Jika Anda perlu menurunkan banyak berat badan, tanyakan dokter tentang stretegi yang sehat untuk mencapai hal tersebut. Pada dasarnya kunci menurunkan berat badan hanya kurangi asupan kalori dan perbanyak olahraga. Diet sehat. Asupan makanan nyatanya juga berperan penting untuk mencegah kanker ini. Oleh sebab itu, perhatikanlah asupan makanan Anda sehari-hari. Konsumsilah makanan dengan gizi seimbang dari buah dan sayur serta hindari makanan yang mengandung lemak tinggi.</string>
+    <string name="obat_desc"><b>Apa saja obat kanker payudara yang biasa digunakan?</b>
+        \n\nDokter Anda menentukan terapi sebagai obat kanker payudara berdasarkan faktor-faktor berikut:
+        \n- Tipe kanker di payudara
+        \n- Stadium kanker di payudara
+        \n- Ukuran kanker di payudara
+        \n- Sensitivitas sel kanker terhadap hormon
+        \n- Kondisi kesehatan Anda secara keseluruhan
+        \n\nTerdapat 5 tipe terapi standar yang dapat dilakukan dokter sebagai obat kanker payudara, di antaranya:</string>
+    <string name="obat2_desc">\n <b>1. Pembedahan</b>
+        \n- Pembedahan Bedah konservatif, yaitu mengangkat sel kanker beserta kelenjar getah bening yang terlibat.
+        \n- Mastektomi total, yaitu mengangkat seluruh payudara yang terkena kanker.
+        \n- Modified radical mastectomy (mastektomi radikal yang dimodifikasi), yaitu mengangkat seluruh payudara yang terkena kanker, kelenjar getah bening di bawah ketiak, sepanjang otot pada dada, dan terkadang sebagian otot dinding dada.
+        \n\n <b>2. Terapi radiasi</b>
+        \nTerapi radiasi adalah terapi kanker dengan menggunakan sinar X bertenaga tinggi yang ditargetkan untuk membunuh sel kanker atau menghambat pertumbuhan sel kanker. Terapi ini umumnya dilakukan secara teratur bagi wanita yang berisiko tinggi setelah menjalani prosedur mastektomi.
+        \n\n <b>3. Kemoterapi</b>
+        \nKemoterapi, yaitu terapi kanker menggunakan obat-obatan untuk menghambat pertumbuhan sel kanker. Terapi ini dapat dilakukan sebelum pembedahan untuk mengecilkan tumor sebelum diangkat. Selain itu, terapi ini juga dapat dilakukan setelah pembedahan untuk mencegah pertumbuhan tumor kembali.</string>
+    <string name="obat_des3">\n\n <b>4. Terapi hormon</b>
+        \nTerapi hormon adalah terapi kanker dengan menghambat kerja hormon dan mencegah perkembangan sel kanker. Terapi ini efektif hanya pada kanker pada payudara yang sensitif terhadap hormon. Dokter Anda akan melakukan pemeriksaan untuk menentukan tipe kanker di payudara Anda.
+        \n\n <b>5. Terapi target</b>
+        \nTerapi target adalah terapi yang menggunakan obat-obatan atau bahan kimia lain untuk mengidentifikasi dan menyerang sel kanker secara spesifik tanpa membunuh sel-sel normal. Terapi ini antara lain:
+        \n- Antibodi monoklonal
+        \n- Penghambat tirosin kinase
+        \n- Cyclin-dependent kinase inhibitors (penghambat cyclin-dependent kinase)
+        \n\nTerapi yang digunakan dapat berupa kombinasi dari beberapa terapi. Konsultasikan dengan dokter Anda untuk pilihan terapi yang tepat untuk Anda.</string>
+    <string name="apaitukankerserviks1"><b>Apa itu Kanker Serviks?</b>
+        \n\nKanker serviks adalah kanker yang tumbuh pada sel-sel di leher rahim. Umumnya, kanker serviks tidak menunjukkan gejala pada tahap awal. Gejala baru muncul saat kanker sudah mulai menyebar. Dalam banyak kasus, kanker serviks terkait dengan infeksi menular seksual.</string>
+    <string name="apaituserviks2">\nServiks adalah bagian bawah rahim yang terhubung ke vagina. Salah satu fungsi serviks adalah memproduksi lendir atau mukus. Lendir membantu menyalurkan sperma dari vagina ke rahim saat berhubungan seksual. Selain itu, serviks juga akan menutup saat kehamilan untuk menjaga janin tetap di rahim, dan akan melebar atau membuka saat proses persalinan berlangsung. Jenis kanker serviks terbagi dua, yaitu:
+        \n\n <b> 1. Karsinoma sel skuamosa (KSS)</b>
+        \nKSS adalah jenis kanker serviks yang paling sering terjadi. KSS bermula pada sel skuamosa, yaitu sel yang melapisi bagian luar leher rahim.
+        \n\n <b> 2. Adenokarsinoma</b>
+        \nJenis kanker serviks ini bermula pada sel kelenjar pada saluran leher rahim.</string>
+    <string name="gejalaserviks1">\n<b>Apa Ciri-Ciri Kanker Serviks?</b>
+        \n\nDi tahap awal perkembangannya, wanita dengan kanker leher rahim sangat sulit untuk menemukan gejala atau kondisi yang mengarah pada penyakit ini. Di mana kanker leher rahim tahap awal atau pre-kanker hampir tidak menunjukkan adanya gejala-gejala serius. Bahkan gejala baru akan diketahui setelah adanya pertumbuhan tumor di dalam leher rahim. Untuk gejala yang sering dialami oleh penderita kanker serviks sendiri adalah dengan menunjukkan ciri-ciri sebagai berikut:</string>
+    <string name="gejalaserviks2">\n- Terjadinya pendarahan yang tidak wajar pada vagina, misalnya saja Anda mengalami pendarahan padahal tidak dalam masa menstruasi, waktu menstruasi yang lebih panjang, terjadinya pendarahan saat atau setelah berhubungan badan, pendarahan setelah BAB, pendarahan setelah masuk masa menopause.
+        \n- Siklus menstruasi yang tidak teratur.
+        \n- Keputihan yang tidak normal</string>
+    <string name="gejalaserviks3">- Adanya nyeri di bagian panggul atau di bagian punggung bawah
+        \n- Badan menjadi lebih cepat lelah, lemas, dan sering capek
+        \n- Nafsu makan menurun
+        \n- Berat badan turun drastis padahal tidak melakukan program diet
+        \n- Salah satu bagian kaki menjadi bengkak
+        \n- Keluarnya cairan pada vagina yang tidak normal dan disertai bau menyengat dan bercak darah</string>
+    <string name="bedah"><b>Pengobatan apa saja yang dapat dilakukan?</b>
+        \n\nPengobatan terhadap kanker serviks meliputi bedah, kemoterapi, radioterapi, atau kombinasi ketiganya. Metode yang dipilih tergantung kepada beberapa faktor, yaitu stadium kanker, jenis kanker, serta kondisi kesehatan pasien. Sejumlah pengobatan yang dapat dilakukan pada kanker serviks meliputi:
+        \n\n<b>1. Bedah</b></string>
+    <string name="bedahdetail">Beberapa metode bedah dapat menangani kanker serviks, terutama pada stadium awal. Di antaranya adalah:
+        \n\n <b>a. Konisasi atau biopsi kerucut</b>
+        \nProsedur ini bertujuan mengangkat sel kanker menggunakan pisau bedah, laser, atau kawat tipis yang dialiri listrik (LEEP). Metode konisasi yang dipilih tergantung pada lokasi dan jenis kanker.
+        \n\n <b>b. Histerektomi</b>
+        \nHisterektomi adalah bedah untuk mengangkat rahim (uterus) dan leher rahim (serviks).
+        \n\n <b>c. Trakelektomi radikal</b>
+        \nBedah trakelektomi bertujuan mengangkat serviks, vagina bagian atas, serta kelenjar getah bening di area pinggul, melalui laparoskopi.
+        \n\n<b>2. Radioterapi\n</b></string>
+    <string name="radiotrapi">Radioterapi adalah metode pengobatan kanker yang menggunakan sinar radiasi tinggi untuk membunuh sel kanker.
+        \n\n<b>3. Kemoterapi\n</b></string>
+    <string name="detailkemo">Kemoterapi adalah metode pengobatan dengan memberikan pasien obat antikanker dalam bentuk obat minum atau suntik. Obat ini dapat memasuki aliran darah dan menyebar ke seluruh tubuh.</string>
+    <string name="cegahserviks1"><b>Bagaimana cara mencegah kanker serviks?</b>
+        \n\n<b>a. Rutin melakukan pemeriksaan pap smear</b>
+        \nPap Smear merupakan salah satu cara terbaik sebagai lini pertahanan pertama untuk mencegah kanker serviks. Metode screening satu ini berfungsi untuk mendeteksi sel-sel dalam leher rahim yang berpotensi menjadi kanker nantinya.
+        \n\n<b>b. Mendapatkan vaksinasi HPV</b>
+        \nCara lain yang tidak kalah penting untuk mencegah kanker serviks adalah melakukan vaksinasi HPV. Jika Anda wanita dan laki-laki berusia antara 9 sampai 26 tahun, Anda disarankan untuk mendapatkan vaksin ini.</string>
+    <string name="cegahserviks2">\n<b>c. Hindari merokok</b>
+        \nAnda bisa mengurangi kemungkinan terkena kanker serviks dengan tidak merokok. Tidak merokok adalah cara penting lainnya untuk mengurangi risiko kanker serviks. Pasalnya, racun rokok bersifat oksidatif sehingga bisa memicu sel kanker muncul dan bertambah ganas.
+        \n\n<b>d. Lakukan seks yang aman</b>
+        \nLebih dari 90 persen kanker serviks disebabkan karena terinfeksi virus HPV. Penyebaran virus ini terjadi melalui hubungan seksual yang tidak aman, maka gunakan kondom ketika berhubungan seksual untuk mengurangi risiko tertular HPV.</string>
+    <string name="cegahserviks3">\n<b>e. Menjaga kebersihan vagina</b>
+        \nSelain melakukan pap smear untuk mencegah kanker serviks, Anda juga harus menjaga kebersihan vagina terutama saat menstruasi dan keputihan. Menggunakan cairan antiseptik kewanitaan yang mengandung povidone iodine mungkin bisa Anda lakukan untuk menjaga kebersihan vagina Anda, terutama ketika masa “red day” atau menstruasi.</string>
+    <string name="kankerdar1"><b>Apa itu Kanker Darah?</b>
+        \n\nKanker darah atau leukemia adalah kanker yang menyerang sel-sel darah putih. Sel darah putih merupakan sel darah yang berfungsi melindungi tubuh terhadap benda asing atau penyakit. Sel darah putih ini dihasilkan oleh sumsum tulang belakang. Jenis-jenis Kanker Darah Ada berbagai jenis kanker darah. Berdasarkan kecepatan perkembangannya, kanker ini dapat dikelompokkan menjadi akut dan kronis.</string>
+    <string name="kankerdar2">\n<b> 1. Kanker Darah Akut</b>
+        \nKanker darah akut berkembang dengan cepat akibat penambahan jumlah sel darah putih yang abnormal atau sel yang belum matang sehingga tidak dapat berfungsi secara normal. Pertumbuhan ini sangat pesat begitu pun penyebarannya ke dalam aliran darah. Jenis ini harus ditangani dengan segera. Jika dibiarkan, tubuh akan kekurangan oksigen dan kekebalan tubuh terhadap penyakit atau infeksi menurun.
+         \n\n<b> 2. Kanker Darah Kronis</b>kanker darah kronis berkembang secara perlahan-lahan dan dalam jangka panjang. Sel-sel darah putih yang seharusnya sudah mati akan tetap hidup dan menumpuk dalam aliran darah, sumsum tulang, serta organ-organ lain yang terkait.</string>
+    <string name="gejalablood1"><b>Apa Gejala Kanker Darah?</b>
+        \n\nGejala kanker darah sangat beragam. Tiap penderita biasanya mengalami indikasi yang berbeda-beda, tergantung kepada jenis kanker darah yang diidap. Indikasi-indikasi kanker ini juga cenderung sulit dikenali karena cenderung mirip dengan kondisi lain, seperti flu. Karena itu, kita perlu mewaspadai gejala-gejala umum yang tidak kian membaik atau mereda, seperti:
+        \n\n- Lemas atau kelelahan yang berkelanjutan
+        \n- Demam
+        \n- Menggigil
+        \n- Sakit kepala
+        \n- Muntah-muntah
+        \n- Keringat berlebihan, terutama pada malam hari
+        \n- Nyeri pada tulang atau sendi
+        \n- Penurunan berat badan
+        \n- Pembengkakan pada limfa noda, hati, atau limpa
+        \n- Muncul infeksi yang parah atau sering terjadi
+        \n- Mudah mengalami pendarahan (misalnya sering mimisan) atau memar
+        \n- Muncul bintik-bintik merah pada pada kulit.</string>
+    <string name="kemoblood1"><b>Pengobatan apa saja yang dapat dilakukan?</b>
+        \n\nBerikut ini adalah metode pengobatan yang umumnya dianjurkan untuk menangani kanker darah, antara lain:
+        \n\n<b>1. Kemoterapi</b></string>
+    <string name="kemoblood2">Kemoterapi merupakan pilihan terapi paling umum untuk kasus kanker darah leukimia. Pengobatan kemoterapi menggunakan bahan-bahan kimia untuk membunuh sel-sel kanker darah.
+        \n\n<b>2. Radioterapi</b></string>
+    <string name="radi1">Teknik pengobatan ini menggunakan sinar X untuk menghancurkan dan menghambat pertumbuhan sel-sel kanker. Radioterapi dapat dilakukan hanya pada area tertentu yang terserang kanker, ataupun pada seluruh tubuh, bergantung dari kondisi Anda. Radioterapi juga dapat dilakukan untuk persiapan melakukan transplantasi sel induk.
+        \n\n<b>3. Transplantasi sel induk atau stem cell</b></string>
+    <string name="cell">Transplantasi sel induk atau stem cell untuk mengganti sumsum tulang yang sudah rusak dengan yang sehat. Sel-sel induk yang digunakan bisa berasal dari tubuh Anda sendiri atau tubuh orang lain sebagai pendonor. Kemoterapi atau radioterapi biasanya akan dilakukan sebagai langkah persiapan sebelum menjalani prosedur transplantasi ini.
+        \n\n<b>4. Terapi terfokus untuk menyerang bagian-bagian rentan dalam sel-sel kanker</b>
+        \n\n<b>5. Terapi biologis untuk membantu sistem kekebalan tubuh mengenali dan menyerang sel-sel kanker</b></string>
+    <string name="cegahblood"><b>Bagaimana cara mencegah Kanker Darah?</b>
+        \n\nAdapun pola hidup yang dapat dilakukan guna mencegah kanker darah adalah sebagai berikut.
+        \n\n- Menghindari kebiasaan merokok.
+        \n- Menjaga berat badan ideal dengan mengonsumsi makanan bergizi seimbang dan aktif berolahraga
+        \n- Menjauhi paparan bahan kimia berbahaya seperti benzena, formaldehida, dan radon
+        \n- Sumber paparan di sekitar lingkungan rumah biasanya berasal dari pembasmi serangga, asap kendaraan, bensin tanpa timbal, dan pembasmi tanaman hama
+        \n- Membatasi paparan radiasi yang berasal dari sinar-X, CT scan, dan alat sejenisnya</string>
+    <string name="apahati"><b>Apa itu kanker hati?</b>
+        \n\nKanker hati adalah karsinoma paling umum pada sel hati, yaitu tumor utama yang tumbuh di hati dan bukan disebabkan oleh penyebaran dari organ lain dalam tubuh. Hati adalah salah satu tubuh yang memegang peranan penting untuk membersihkan darah dari racun dan berbagai zat berbahaya. Kanker hati terbagi menjadi dua jenis, yaitu:
+        \n\n<b>a. Kanker hati primer</b>
+        \nMuncul dan tumbuh pertama kali di organ hati. Umumnya kanker hati jenis ini terjadi akibat komplikasi dari penyakit hati seperti hepatitis ataupun sirosis.
+        \n\n<b>b.Kanker hati sekunder</b>
+        \nTidak semua kanker yang memengaruhi hati disebut kanker hati. Kanker yang muncul dari organ lain dalam tubuh seperti usus, paru-paru, atau payudara dan kemudian menyebar ke hati disebut kanker metastasis atau kanker yang menyebar.</string>
+    <string name="gejalahati1">\n<b>Apa saja tanda dan gejala dari kanker hati?</b>
+        \n\nSatu dari tiga pasien tidak menunjukkan gejala kanker hati awal. Itu sebabnya, gejala kanker hati mungkin pada setiap orang tidaklah selalu sama. Namun secara umum, berikut tanda dan gejala kanker hati yang biasanya muncul:
+        \n\n- Penurunan berat badan secara drastis Mual dan muntah
+        \n- Nyeri di bagian perut
+        \n- Perut yang membesar tanpa sebab
+        \n- Gangguan makan Tampak lemas dan lesu (tidak bertenaga)
+        \n- Jaundice/penyakit kuning Tinja berwarna pucat</string>
+    <string name="gejalahati2">\nGejala kanker hati seringkali disebabkan karena penyakit lain. Selain itu, dalam banyak kasus tanda-tanda dan gejala kanker hati mungkin tidak muncul sampai kerusakan parah telah terjadi. Oleh sebab itu, buatlah janji dengan dokter Anda jika Anda memiliki tanda-tanda atau gejala kanker hati. Mungkin masih ada gejala kanker hati lain yang belum disebutkan di atas. Jika Anda memiliki kekhawatiran mengenai salah satu gejala kanker hati, silakan konsultasi kepada dokter.</string>
+    <string name="obathati1">\nMetode pengobatan untuk penderita kanker hati tergantung pada usia, stadium kanker, dan kondisi kesehatan pasien. Beberapa metode pengobatan yang biasa digunakan, antara lain:
+        \n\n<b>1. Bedah</b>
+        \nBedah dilakukan bila ukuran kanker kecil (terdapat satu tumor kurang dari 5 cm atau 2-3 tumor berukuran kurang dari 3 cm), dan belum menyebar ke organ lain.
+        \n\n<b>2. Ablasi tumor</b>
+        \nAblasi bertujuan menghancurkan sel kanker tanpa harus mengangkatnya. Metode ini digunakan pada sel kanker berukuran kecil, atau diterapkan bila pasien tidak dapat menjalani bedah.</string>
+    <string name="obathati2">\n<b>3. Embolisasi</b>
+        \nEmbolisasi adalah prosedur menyuntikkan obat untuk menghalangi atau mengurangi aliran darah ke sel kanker di hati. Prosedur ini dilakukan bila ukuran tumor lebih dari 5 cm.
+        \n\n<b>4. Radioembolisasi</b>
+        \nRadioembolisasi adalah jenis radioterapi internal, untuk menangani kanker yang tidak bisa diangkat melalui bedah. Prosedur ini juga dilakukan pada kanker usus yang menyebar ke hati.
+        \n\n<b>5. Radioterapi</b>
+        \nTerapi radiasi atau radioterapi menggunakan radiasi berkekuatan tinggi untuk membunuh sel kanker. Salah satu jenis terapi radiasi untuk kanker hati adalah radioterapi eksternal, yaitu dengan mengarahkan sinar radiasi ke tubuh pasien.</string>
+    <string name="obathati3">\n<b>6. Kemoembolisasi</b>
+        \nKemoembolisasi atau trans arterial chemoembolisation (TACE), adalah terapi yang memadukan kemoterapi dan embolisasi. Prosedur ini dilakukan dengan menyuntikkan obat ke area kanker, dan menghambat aliran darah ke sel kanker di hati.</string>
+    <string name="cegahhati1"><b>\nBagaimana cara mencegah kanker hati?</b>
+        \n\nAdapun pola hidup ynag dapat dilakukan adalah sebagai berikut.
+        \n\n<b>1. Cegah Penyakit Hepatitis</b>
+        \nFaktor risiko terkena kanker hati semakin tinggi jika terkena infeksi kronis oleh virus hepatitis B (HBV) dan virus hepatitis C (HCV). Virus ini dapat menyebar dari orang ke orang melalui penggunaan jarum suntik bersama, kontak seksual yang tidak aman.
+        \n\n<b>2. Hentikan kebiasaan Merokok dan Minum alkohol</b>
+        \nMinum alkohol dapat meningkatkan risiko sirosis hati, dalam waktu yang lama sirosis dapat menyebabkan kanker hati. Merokok juga menyebabkan kerusakan hati.</string>
+    <string name="cegahhati2">\n<b>3. Jaga berat badan</b>
+        \nMenurut beberapa penelitian, orang yang kelebihan berat badan lebih mungkin untuk terkena penyakit perlemakan hati, hal ini juga bisa menaikan faktor risiko terkena kanker hati. Nah untuk itu anda wajib sekali menjaga berat badan dalam konsisi ideal dan sehat.
+        \n\n<b>4. Kurangi penggunaan Bahan kimia pemicu kanker</b>
+        \nAnda juga sebaiknya mengurangi makanan yang kandungan bahan pengawet atau bahan kimia yang terlampau banyak. Bahkan jika bisa anda merubah gaya hidup Anda dengan mencari bahan makanan yang bebas bahan kimia</string>
+    <string name="apabrain"><b>Apa itu kanker otak?</b>
+        \n\nKanker otak adalah kondisi di mana tumbuhnya tumor ganas di otak. Penyakit ini dibagi menjadi dua tipe. Terdiri dari kanker otak primer (terhitung terjadi sebanyak 75 persen dari seluruh kasus tumor otak) yang penyebabnya datang dari otak, dan kanker otak sekunder (25 persen dari seluruh kasus kanker otak) yang muncul dari bagian tubuh lain dan menyebar sampai ke otak.
+        \n\nSekitar 40 persen kanker otak diawali dari penyangga neuron yaitu sel tumor Glial. Sel U glial termasuk juga tumor astrocytes, tumor glia primer, oligodendrocytes glioma, meningioma ventricular, dan medulloblastoma.</string>
+    <string name="apabrain2">\nTipe kanker otak sekunder biasanya disebabkan oleh penyebaran dari kanker lain, seperti kanker payudara, paru-paru, ginjal, usus besar, dan melanoma pada kulit. Kanker otak adalah kondisi yang tidak dapat dihindari tapi sebagian besar dapat ditangani jika terdeteksi sejak awal.</string>
+    <string name="gejalabrain1">\n<b>Apa saja tanda-tanda dan gejala kanker otak?</b>
+        \n\nSakit kepala berkepanjangan adalah gejala umum kanker otak karena tumor tumbuh menekan tengkorak. Sakit kepala biasanya terjadi di pagi hari setelah bangun dan semakin sakit ketika batuk dan bersin.
+        \n\nGejala lain tergantung pada lokasi tumor, tetapi juga bisa mengakibatkan perubahan kebiasaan Anda sehari-hari. Berikut merupakan gejala kanker otak:</string>
+    <string name="gejalabrain2">\n- Sakit kepala, terutama di pagi hari
+        \n- Sakit kepala bisa terasa ringan atau bahkan terasa berat
+        \n- Kelemahan otot yang sering terjadi di salah satu sisi tubuh
+        \n- Parestesi, tubuh seperti merasa seperti ditusuk jarum dan kesemuran
+        \n- Tubuh sulit untuk seimbang dan koordinasi pada gerakan tubuh berantakan
+        \n- Kesulitan berjalan, lengan dan kaki kadang juga menjadi lemah
+        \n- Kejang
+        \n\nDalam beberapa kasus, orang mungkin mengira gejala kanker otak yang dialami adalah kondisi stroke, padahal bukan. Pada beberapa pasien, gejalanya mungkin lebih jelas, terutama jika kanker terletak di lobus otak tertentu, yang biasanya bertanggung jawab untuk fungsi tubuh.</string>
+    <string name="obatbrain1"><b>Apa pengobatan yang dapat dilakukan?</b>
+        \n\nPengobatan Pengobatan kanker otak dilakukan berdasarkan beberapa faktor, yaitu usia dan kondisi kesehatan penderita secara umum, juga lokasi, ukuran, dan jenis tumor. Pilihan tindakan yang bisa dilakukan untuk mengatasi kanker otak, di antaranya adalah operasi, radioterapi, kemoterapi, atau kombinasi.
+        \n\n<b>1. Operasi</b>
+        \nProsedur ini bertujuan untuk mengangkat tumor sebanyak mungkin dan meredakan gejala kanker otak. Umumnya, operasi dilakukan untuk membantu keberhasilan terapi lainnya.</string>
+    <string name="obatbrain2">\n<b>2. Kemoterapi</b>
+        \nDalam terapi ini, obat antikanker dimasukkan dalam tubuh untuk membunuh sel kanker. Kemoterapi dapat dilaksanakan pasca operasi untuk mencegah tumor muncul kembali, dan memperpanjang usia harapan hidup penderita.
+        \n\n<b>3. Radioterapi</b>
+        \nDalam radioterapi, sinar berenergi tinggi diarahkan pada lokasi tumor untuk menghentikan pertumbuhan sel kanker yang tidak terkendali. Radioterapi dilakukan untuk menghilangkan tumor yang tidak bisa diangkat dengan cara operasi, serta menurunkan risiko tumor muncul kembali. Radioterapi dilakukan dalam serangkaian terapi, selama 3-7 minggu.</string>
+    <string name="cegahbr1"><b>Bagaimana cara mencegah Kanker Otak?</b>
+        \n\nTindakan pencegahan lain selain deteksi dini melalui MRI adalah dengan tidak membiarkan stres berat yang menyerang secara terus-menerus. Apabila Anda mengalami stres, ada baiknya menyempatkan waktu beristirahat, dan refreshing untuk mengurangi dan menghilangkan stres.
+        \n\nPencegahan tumor otak pun sangat penting dilakukan dengan membatasi radiasi langsung yang berlebihan pada tubuh. Misalnya dengan menggunakan handsfree saat sering menggunakan telepon seluler dalam waktu lama.</string>
+    <string name="cegahbr2">\nAnda pun disarankan untuk menerapkan pola makan sehat dengan gizi seimbang. Misalnya dengan mengonsumsi buah-buahan, sayur-sayuran, dan biji-bijian. Ditambah membatasi diri mengonsumsi lemak. Selain itu, diet makanan lain yang dapat dilakukan adalah dengan mengurangi makanan yang diasap, dibakar, dan diawetkan dengan nitrit, maupun zat kimiawi buatan, termasuk menghindari rokok dan konsumsi alkohol.</string>
+    <string name="apatulang"><b>Apa itu Kanker Tulang?</b>
+        \n\nKanker tulang adalah jenis kanker yang menyerang tulang. Kondisi ini dapat dialami oleh anak-anak hingga orang dewasa. Kanker tulang dapat menyerang tulang mana pun di dalam tubuh, namun umumnya terjadi di tungkai, lengan, dan panggul.
+        \n\nKanker tulang tergolong kondisi yang jarang terjadi, hanya sebesar 1% dari seluruh penderita kanker. Tumor yang terbentuk pada tulang pun lebih banyak yang jinak dibandingkan yang ganas.</string>
+    <string name="gejalat1"><b>Apa saja gejala Kanker Tulang?</b>
+        \n\nBerikut ini adalah tiga tanda dan gejala utama penyakit kanker tulang, yakni:
+        \n\n<b>1. Nyeri</b>
+        \nPenderita kanker tulang akan merasakan nyeri pada area tulang yang terkena. Awalnya, nyeri hanya terasa sesekali, namun akan menjadi makin sering seiring pertumbuhan kanker. Nyeri akan makin terasa saat bergerak, dan biasanya memburuk di malam hari.</string>
+    <string name="gejalat2">\n<b>2. Pembengkakan</b>
+        \nPembengkakan dan peradangan muncul di area sekitar tulang yang terkena kanker. Apabila pembengkakan terjadi di tulang dekat persendian, penderita akan sulit menggerakkan sendi.
+        \n\n<b>3. Tulang rapuh</b>
+        \nKanker tulang menyebabkan tulang menjadi rapuh. Bila semakin parah, cedera ringan saja dapat menyebabkan patah tulang.</string>
+    <string name="gejalat3">\nBeberapa gejala lain yang dapat menyertai tiga tanda utama di atas adalah: Berat badan turun tanpa sebab. Berkeringat di malam hari. Tubuh mudah lelah. Demam. Sensasi kebas atau mati rasa, bila kanker terjadi di tulang belakang dan menekan saraf. Sesak napas, bila kanker tulang menyebar ke paru-paru.</string>
+    <string name="gejalat4">\n\nPerlu diketahui, nyeri tulang pada orang dewasa terkadang disalahartikan sebagai radang sendi. Sedangkan pada anak-anak dan remaja, terkadang dianggap sebagai efek samping pertumbuhan tulang. Segera periksakan ke dokter bila Anda atau anak Anda merasakan nyeri tulang yang hilang dan timbul, memburuk di malam hari, dan tidak membaik meski telah mengonsumsi obat pereda nyeri.</string>
+    <string name="obatt"><b>Pengobatan Kanker Tulang</b>
+        \n\nPilihan pengobatan kanker tulang tergantung kepada tingkat keparahan, lokasi, dan jenis kanker. Penanganan kanker tulang dapat dilakukan dengan operasi, kemoterapi, atau radioterapi.
+        \n\n<b>1. Operasi</b>
+        \nOperasi bertujuan untuk mengangkat bagian tulang yang terkena kanker, dan jaringan di sekitarnya bila diperlukan. Beberapa jenis operasi yang dapat dilakukan untuk mengatasi kanker tulang adalah operasi pengangkatan tulang dan amputasi.</string>
+    <string name="obatt2">\n<b>2. Kemoterapi</b>
+        \nKemoterapi merupakan pemberian obat antikanker melalui suntikan ke pembuluh darah. Kemoterapi dapat dilakukan dalam beberapa cara, yaitu: Dikombinasikan dengan terapi radiasi sebelum pasien menjalani operasi. Metode yang dikenal sebagai kemoradiasi ini efektif dalam menangani sarkoma Ewing. Diberikan sebelum operasi untuk menyusutkan ukuran kanker, agar bisa diangkat tanpa harus menjalani amputasi. Diberikan setelah operasi guna mencegah sel kanker tumbuh kembali. Diberikan untuk meredakan gejala (kemoterapi paliatif) pada pasien yang tidak bisa ditangani dengan cara apa pun.</string>
+    <string name="obatt3">\n<b>Radioterapi</b>
+        \nRadioterapi atau terapi radiasi dilakukan dengan memancarkan sinar radiasi tinggi, seperti sinar X. Prosedur ini lazimnya dilakukan sebelum operasi guna menyusutkan sel kanker, sehingga kanker lebih mudah diangkat. Radioterapi umumnya dilakukan 5 kali dalam seminggu, yang tiap sesinya berlangsung selama beberapa menit.</string>
+    <string name="cegaht"><b>Bagaimana cara mencegah Kanker Tulang?</b>
+        \n\nPencegahan kanker tulang bisa dilakukan dengan memahami proses terjadinya kanker itu sendiri. Kanker biasanya terjadi akibat adanya zat karsinogen dan radikal bebas dalam tubuh. Oleh karena itu kita dapat melakukan pencegahan dengan menerapkan pola hidup sehat seperti menghindari kebiasaan merokok, mengonsumsi alkohol, serta makanan yang mengandung banyak lemak dan zat karsinogen.
+        \n\nBiasakan mengonsumsi makanan dan minuman yang mengandung antioksidan dan nutrisi penting lainnya, serta lakukan secara teratur pemeriksaan kesehatan.</string>
+</resources>
+
+
